@@ -1,6 +1,6 @@
 
 # labpy3
-penjelasan algoritma
+# penjelasan algoritma
  masukan nilai N=5
  gunakan for range(untuk mengulang data dari 1-5)
  cetak data dan memasukan (random.uniform kurang dari 0.5)
@@ -8,7 +8,7 @@ penjelasan algoritma
  
 ![screenshot 17](https://user-images.githubusercontent.com/46736749/52931178-06884300-337e-11e9-9167-35eefc90bd7a.png)
 
-
+# penjelasan algoritma
  masukan max=0
  gunakan while True (untuk perulangan tak terbatas. jika bilangan tersebut bukan nol ,maka akan terus berulang ).
  gunakan if (jika memasukan bilangan nol maka perulangan akan berhenti)
@@ -16,7 +16,7 @@ penjelasan algoritma
  
 ![screenshot 18](https://user-images.githubusercontent.com/46736749/52931229-3b949580-337e-11e9-9631-2826f615c2e1.png)
 
-
+# penjelasan algoritma
  masukkan nilai a 
  gunakan for untuk perulangan dari 1 sampai 8
  lalu gunakan if pertama untuk menentukan laba bulan ke 1 dan ke 2.masukan variabel (b) kalikan nilai (a) dengan data bulan 1 dan 2. cetak (x) dan (b)
