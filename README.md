@@ -4,20 +4,20 @@
 # latihan1.py
 ![screenshot 21](https://user-images.githubusercontent.com/46736749/52955727-027d1500-33c0-11e9-959e-9a0872e220df.png)
 # penjelasan algoritma
-```masukan nilai N=5```
-```gunakan for range(untuk mengulang data dari 1-5)```
-```cetak data dan memasukan (random.uniform kurang dari 0.5)```
-```jika selesai RUN/jalankan programnya.``` 
+- [x] masukan nilai N=5
+gunakan for range(untuk mengulang data dari 1-5)
+cetak data dan memasukan (random.uniform kurang dari 0.5)
+jika selesai RUN/jalankan programnya.
  # output
 ![screenshot 17](https://user-images.githubusercontent.com/46736749/52931178-06884300-337e-11e9-9167-35eefc90bd7a.png)
 
 # latihan2.py
 ![screenshot 20](https://user-images.githubusercontent.com/46736749/52955748-13c62180-33c0-11e9-955a-74dab1d1e1a7.png)
 # penjelasan algoritma
-```masukan max=0```
-```gunakan while True (untuk perulangan tak terbatas. jika bilangan tersebut bukan nol ,maka akan terus berulang ).```
-```gunakan if (jika memasukan bilangan nol maka perulangan akan berhenti)```
-```selanjutnya,gunakan if (untuk mencari nilai max = bilangan terbesar,lalu run/jalankan programnya).```
+masukan max=0
+gunakan while True (untuk perulangan tak terbatas. jika bilangan tersebut bukan nol ,maka akan terus berulang ).
+gunakan if (jika memasukan bilangan nol maka perulangan akan berhenti)
+selanjutnya,gunakan if (untuk mencari nilai max = bilangan terbesar,lalu run/jalankan programnya).
  # output
 ![screenshot 18](https://user-images.githubusercontent.com/46736749/52931229-3b949580-337e-11e9-9631-2826f615c2e1.png)
 
