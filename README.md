@@ -1,9 +1,9 @@
 
 
 # labpy3
-
-# latihan1.py
 ![screenshot 20](https://user-images.githubusercontent.com/46736749/52955748-13c62180-33c0-11e9-955a-74dab1d1e1a7.png)
+# latihan1.py
+![screenshot 21](https://user-images.githubusercontent.com/46736749/52955727-027d1500-33c0-11e9-959e-9a0872e220df.png)
 # penjelasan algoritma
 # masukan nilai N=5
 # gunakan for range(untuk mengulang data dari 1-5)
@@ -13,7 +13,7 @@
 ![screenshot 17](https://user-images.githubusercontent.com/46736749/52931178-06884300-337e-11e9-9167-35eefc90bd7a.png)
 
 # latihan2.py
-![screenshot 21](https://user-images.githubusercontent.com/46736749/52955727-027d1500-33c0-11e9-959e-9a0872e220df.png)
+
 # penjelasan algoritma
 # masukan max=0
 # gunakan while True (untuk perulangan tak terbatas. jika bilangan tersebut bukan nol ,maka akan terus berulang ).
